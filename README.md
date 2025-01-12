@@ -1,6 +1,6 @@
 # Hi, I'm @dipeshchangawala 👋
 
-I'm a **Backend Developer** and **Project Manager** with experience in building and managing robust web applications. My expertise spans across various technologies, databases, and payment gateways. Here's a quick overview of my skills and experience:
+I'm a **Backend Developer** and **Team Leader** with experience in building and managing robust web applications. My expertise spans across various technologies, databases, and payment gateways. Here's a quick overview of my skills and experience:
 
 ## 🚀 Skills & Technologies
 
@@ -8,7 +8,7 @@ I'm a **Backend Developer** and **Project Manager** with experience in building 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Frontend Basics:** HTML, CSS, JavaScript, jQuery
 - **Payment Gateways:** Stripe, PayPal (Integration Experience)
-- **Project Management:** Managing web development projects from planning to deployment
+- **Team Leader:** Skilled in managing web development projects from planning to delivery, ensuring timely completion, quality, and team collaboration.
 
 ## 💻 What I Do
 
