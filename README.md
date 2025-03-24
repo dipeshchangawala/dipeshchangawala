@@ -21,7 +21,7 @@ I also lead projects, ensuring the delivery of high-quality software solutions t
 - **Frameworks & Platforms:** Laravel, NestJS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Deployment:** Docker, CI/CD pipelines
+- **Deployment:** Docker
 - **Payment Gateway Integration:** Stripe, PayPal
 
 ## 🌱 Currently Learning
